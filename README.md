@@ -19,7 +19,7 @@ Willkommen auf meinem GitHub-Profil! Hier findest du eine Übersicht über meine
 
 | Zertifikat / Kurs | Aussteller / Organisation | Datum | Nachweis / Vorschau |
 |---|---|---|---|
-| **Intro to Machine Learning** | Kaggle | 18. Juni 2026 | [Zertifikat](./assets/certificates/kaggle-intro-to-machine-learning.png) |
+| **Intro to Machine Learning** | Kaggle | 18. Juni 2026 | [Zertifikat](./assets/certificates/eldi%20syla%20-%20Intro%20to%20Machine%20Learning.png) |
 
 ---
 
