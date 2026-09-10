@@ -15,15 +15,7 @@ Willkommen auf meinem GitHub-Profil! Hier findest du eine Übersicht über meine
 
 ---
 
-## 📜 Zertifikate & Qualifikationen
-
-| Zertifikat / Kurs | Aussteller / Organisation | Datum | Nachweis / Vorschau |
-|---|---|---|---|
-| **Intro to Machine Learning** | Kaggle | 18. Juni 2026 | [Zertifikat](./assets/certificates/eldi%20syla%20-%20Intro%20to%20Machine%20Learning.png) |
-
----
-
-## 🚀 Projekte
+## � Projekte
 
 ### ⚡ **Team Halo (Verlängerung)** `Full Stack Developer`
 📅 *17. August 2026 – laufend*  
@@ -60,17 +52,9 @@ Techniker im Field Service – Unterstützung von Außendiensteinsätzen bei Swi
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 📜 Zertifikate & Qualifikationen
 
-- **Programmiersprachen:** Python, JavaScript, TypeScript, ...
-- **Frameworks & Tools:** React, Node.js, Docker, Git, ...
-- **Betriebssysteme & Cloud:** Linux, Windows, Azure, AWS, ...
-
----
-
-## 📊 GitHub Statistiken
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldi-syla&show_icons=true&theme=radical" alt="Eldi's GitHub Stats" />
-</p>
+| Zertifikat / Kurs | Aussteller / Organisation | Datum | Nachweis / Vorschau |
+|---|---|---|---|
+| **Intro to Machine Learning** | Kaggle | 18. Juni 2026 | [Zertifikat](./assets/certificates/eldi%20syla%20-%20Intro%20to%20Machine%20Learning.png) |
 
