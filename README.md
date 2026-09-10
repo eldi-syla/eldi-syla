@@ -23,19 +23,7 @@ Willkommen auf meinem GitHub-Profil! Hier findest du eine Übersicht über meine
 
 ---
 
-## 🚀 Projekte (Timeline)
-
-```mermaid
-timeline
-    title Mein Projekt- & Praxis-Zeitstrahl
-    17. Aug 2026 - laufend      : Team Halo (Verlängerung) <br/> (Full Stack Developer & Plattform-Entwicklung)
-    04. Feb 2026 - 15. Jul 2026 : Team Halo <br/> (Full Stack Developer)
-    20. Aug 2025 - 31. Jan 2026 : IT Onboarding Lernende <br/> (Technical Lead im Team Minions)
-    03. Feb 2025 - 16. Jul 2025 : CodeMix 2 <br/> (Entwickler - Web & Applikations-Grundlagen)
-    12. Aug 2024 - 31. Jan 2025 : Cablex Field Service <br/> (Techniker / Swisscom Außendienst)
-```
-
-<br/>
+## 🚀 Projekte
 
 ### ⚡ **Team Halo (Verlängerung)** `Full Stack Developer`
 📅 *17. August 2026 – laufend*  
