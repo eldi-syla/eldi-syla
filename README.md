@@ -23,18 +23,52 @@ Willkommen auf meinem GitHub-Profil! Hier findest du eine Übersicht über meine
 
 ---
 
-## 💼 Berufserfahrung & Werdegang
+## � Projekte (Timeline)
 
-### **[Aktuelle Position / Jobtitel]** – *Unternehmen / Organisation*
-*MM/JJJJ – Heute*
-- Schwerpunktaufgabe 1
-- Schwerpunktaufgabe 2
-- Verwendete Technologien: ...
+```mermaid
+timeline
+    title Mein Projekt- & Praxis-Zeitstrahl
+    12. Aug 2024 - 31. Jan 2025 : Cablex Field Service <br/> (Techniker / Swisscom Außendienst)
+    03. Feb 2025 - 16. Jul 2025 : CodeMix 2 <br/> (Entwickler - Web & Applikations-Grundlagen)
+    20. Aug 2025 - 31. Jan 2026 : IT Onboarding Lernende <br/> (Technical Lead im Team Minions)
+    04. Feb 2026 - 15. Jul 2026 : Team Halo <br/> (Full Stack Developer)
+    17. Aug 2026 - laufend      : Team Halo (Verlängerung) <br/> (Full Stack Developer & Plattform-Entwicklung)
+```
 
-### **[Vorherige Position / Ausbildung]** – *Unternehmen / Schule*
-*MM/JJJJ – MM/JJJJ*
-- Tätigkeiten & Meilensteine
-- Erreichte Abschlüsse
+<br/>
+
+### ⚡ **Team Halo (Verlängerung)** `Full Stack Developer`
+📅 *17. August 2026 – laufend*  
+Verlängerung des Team-Halo-Projekts – laufende Feature-Entwicklung und Weiterentwicklung der Plattform.  
+`Full Stack` `React` `Next.js` `API Design` `Verlängerung`
+
+---
+
+### 👥 **Team Halo** `Full Stack Developer`
+📅 *04. Februar 2026 – 15. Juli 2026*  
+End-to-End Feature-Entwicklung, Frontend & Backend, Performance-Optimierung und API-Design.  
+`Full Stack` `React` `Next.js` `API Design` `Performance`
+
+---
+
+### 📚 **IT Onboarding Lernende** `Technical Lead`
+📅 *20. August 2025 – 31. Januar 2026*  
+Technical Lead im Team Minions – Mentoring und Onboarding für Erstjahr-Lernende.  
+`Technical Lead` `Mentoring` `Onboarding` `Team Minions`
+
+---
+
+### 💻 **CodeMix 2** `Entwickler`
+📅 *03. Februar 2025 – 16. Juli 2025*  
+Grundlagen in HTML, CSS, JS/TS, React und Java – praxisnah umgesetzt.  
+`HTML` `CSS` `TypeScript` `React` `Java`
+
+---
+
+### 🛠️ **Cablex Field Service** `Entwickler`
+📅 *12. August 2024 – 31. Januar 2025*  
+Techniker im Field Service – Unterstützung von Außendiensteinsätzen bei Swisscom.  
+`Field Service` `Swisscom` `Außendienst`
 
 ---
 
