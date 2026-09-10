@@ -48,7 +48,7 @@ Grundlagen in HTML, CSS, JS/TS, React und Java – praxisnah umgesetzt.
 ### 🛠️ **Cablex Field Service** `Entwickler`
 📅 *12. August 2024 – 31. Januar 2025*  
 Techniker im Field Service – Unterstützung von Außendiensteinsätzen bei Swisscom.  
-`Field Service` `Swisscom` `Außendienst`
+`Field Service` `Swisscom` `Aussendienst`
 
 ---
 
