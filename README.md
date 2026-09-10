@@ -6,12 +6,12 @@ Willkommen auf meinem GitHub-Profil! Hier findest du eine Übersicht über meine
 
 ## 🧑‍💻 Über mich
 
-- 🔭 **Aktueller Fokus:** ...
-- 🌱 **Ich lerne gerade:** ...
-- 💼 **Beruf / Rolle:** ...
-- 📍 **Standort:** ...
-- 💬 **Frag mich über:** ...
-- 📫 **Kontakt:** [LinkedIn](https://linkedin.com) | [E-Mail](mailto:deine-email@example.com)
+- 🔭 **Aktueller Fokus:** Ein passendes Projekt finden, um meine IPA (Individuelle Praktische Arbeit) zu absolvieren
+- 🌱 **Ich lerne gerade:** RAG (Retrieval-Augmented Generation / AI)
+- 💼 **Beruf / Rolle:** Informatiker Applikationsentwicklung im 3. Lehrjahr bei Swisscom | Team Halo – Full Stack AI-Developer
+- 📍 **Standort:** Zürich
+- 💬 **Frag mich über:** Full Stack Development, AI & RAG, Python, Webentwicklung
+- 📫 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/eldi-syla-86536b350/) | [E-Mail](mailto:eldi.syla@icloud.com)
 
 ---
 
